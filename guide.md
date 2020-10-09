@@ -46,7 +46,7 @@ Cockpit parts determine turning ability, grip (other stat than body parts) and b
 
 Since the steering heaviness is also affected by total Weight, the Weight of cockpit itself is also important when the Weight of body plus booster is low. For example, if the cockpits are combined with Speedy Dragon and Titan G4, all the A, B and C rated cockpits has similar rotation speed during the stationary turn (Maximum Star is the fastest though). In contrast, if the cockpits are combined with Dread Hammer and Titan G4, the importance of Turn Movement is emphasized, in terms of rotation speed during the stationary turn.
 
-![cockpit_turn_movement](./fig/cockcpit_m.png)
+![cockpit_turn_movement](./fig/cockpit_m.png)
 
 A rated cockpits other than Maximum Star might have niche demands. At least, all the A and B rated cockpits are good enough for casual play. You can choose lighter cockpit down to B rated, in order to make the machine easier to control, if you feel heavier cockpits are too responsible.
 
