@@ -29,7 +29,7 @@ By the correlation between Grip 1 and steering heaviness, the lighter the body i
 
 ## Uncorrelated Stats
 ### Grip 3
-[Grip 3](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit#gid=8) (negative slipperiness during a drift) is one of the most important stats which determines the drivability of the machine. Unlike Grip 1, Grip 3 of body parts are very weakly correlated to Weight. The majority of the body parts have 0.15 base Grip 3 (base means at 50% value, since it changes by settings). Bodies with lower Grip 3 are difficult to regain the grip, so that the drivability is lowered. Bodies with higher Grip 3 are difficult to continue drifting, so that the drivability is also lowered. I think, Giant Planet's Grip 3 is not too high in most cases, but Big Tyrant, Space Cancer and Megalo Cruiser are too sticky. Bodies with less than 0.1 base Grip 3 are very difficult to control. Exact 0.1 base Grip 3 is slightly less drivable, but not too bad.
+[Grip 3](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit#gid=8) (negative slipperiness during a drift) is one of the most important stats which determines the drivability of the machine. Unlike Grip 1, Grip 3 of body parts are very weakly correlated to Weight. The majority of the body parts have 0.15 base Grip 3 (base means at 50% value, since it changes by settings). Bodies with lower Grip 3 are difficult to regain the grip, so that the drivability is lowered. Bodies with higher Grip 3 are difficult to continue drifting, so that the drivability is also lowered. I think, Giant Planet's Grip 3 is not too high in most cases, but Big Tyrant, Space Cancer and Megalo Cruiser are too sticky. Bodies with less than 0.1 base Grip 3 (Speedy Dragon and Silver Sword) are very difficult to control. Exact 0.1 base Grip 3 (Brave Eagle and Holy Spider) is slightly less drivable, but not too bad.
 
 ![body_grip3](./fig/body_g3.png)
 
@@ -39,7 +39,28 @@ By the correlation between Grip 1 and steering heaviness, the lighter the body i
 ![body_strafe](./fig/body_s.png)
 
 # Cockpit
-To be written.
+Cockpit parts determine turning ability, grip (other stat than body parts) and body strength (same as body parts). All the principal stats intermediately to strongly correlated to Weight.
+
+## Turn Movement
+[Turn Movement](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit#gid=3) is the most important stat of cockpit parts. It determines steering power. The higher the Turn Movement value is, the more sharply the machine turns. For the cockpit parts, the heavier the cockpit is, the higher Turn Movement is. Generally, the higher Turn Movement is, the better the machine performs. Therefore, Maximum Star, the heaviest and highest Turn Movement cockpit part is considered best in most cases. Also, this would be the main reason why Combat Cannon is considered second to the best cockpit.
+
+Since the steering heaviness is also affected by total Weight, the Weight of cockpit itself is also important when the Weight of body plus booster is low. For example, if the cockpits are combined with Speedy Dragon and Titan G4, all the A, B and C rated cockpits has similar rotation speed during the stationary turn (Maximum Star is the fastest though). In contrast, if the cockpits are combined with Dread Hammer and Titan G4, the importance of Turn Movement is emphasized, in terms of rotation speed during the stationary turn.
+
+![cockpit_turn_movement](./fig/cokcpit_m.png)
+
+A rated cockpits other than Maximum Star might have niche demands. At least, all the A and B rated cockpits are good enough for casual play. You can choose lighter cockpit down to B rated, in order to make the machine easier to control, if you feel heavier cockpits are too responsible.
+
+C rated cockpits are not too bad if it is combined with B rated or lighter body part. Specially named customs with such combinations would be suitable for Grand Prix. D and E rated cockpits are always very bad, especially when they are combined with A rated body and A rated booster parts. Try such combinations if you want to see the [nightmare](https://youtu.be/09gfpoO1xdw) of this game. Machines with D or E rated cockpits are controllable if the body and booster are light enough, but they are definitely slower than heavier combinations.
+
+## Strafe Turn, Grip 2 and Body
+[Strafe Turn](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit#gid=4) and [Grip 2](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit#gid=7) are also affect turning. However, I'm not very sure about these stats. Since they are correlated with cockpit Weight, it is difficult to notice the effects of them distinguished from other stats. I'm curious to see how the highest Strafe Turn of Combat Cannon and the lowest Grip 2 of Crazy Buffalo will work.
+
+Cockpits also have [Body](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit#gid=10) stat. The total Body stat of the custom machine is the product of body part's Body and cockpit part's Body stats. The value is the multiplier of the damage, so that the smaller, the better.
+
+![cockpit_others](./fig/cockpit_w.png)
+
 
 # Booster
+Booster parts determine most of speed related properties, such as acceleration, top speed, booster strength and deceleration by steering, strafing and drifting. They are also affected by total Weight, but the stats of booster parts are the most important things. These speed related properties are determined by various internal stats via complex way. So, just looking the raw internal stats of booster parts brings you little understanding.
+
 To be written.
