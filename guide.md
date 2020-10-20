@@ -15,8 +15,8 @@ The color means the category of the parts. The gold parts should not be called A
 
 | Color | Category | Unlocked by |
 | ---- | ---- | ---- |
-| Green | GX | Grand Prix |
-| Red / Pink | AX | Story |
+| Green | GX | [Grand Prix](https://www.mutecity.org/wiki/F-Zero_Shop#Custom_parts) |
+| Red / Pink | AX | [(mostly) Story](https://www.mutecity.org/wiki/F-Zero_Shop#Custom_parts) |
 | Yellow / Gold | Special | [Events](https://tcrf.net/F-Zero_GX/Regional_Differences#Exclusive_Custom_Parts) / [Cheat Codes](https://crazygamenerd.web.fc2.com/FZGX_SP_Machines.html) |
 
 # Body
@@ -66,3 +66,42 @@ Cockpits also have [Body](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9
 Booster parts determine most of speed related properties, such as acceleration, top speed, booster strength and deceleration by steering, strafing and drifting. They are also affected by total Weight, but the stats of booster parts are the most important things. These speed related properties are determined by various internal stats via complex way. So, just looking the raw internal stats of booster parts brings you little understanding.
 
 To be written.
+
+# How do I make the "worst" custom machine?
+There are no machines which can be said worst in all aspects. However, I think, there are two big groups which can be said worst: bad turning machines and slowest machines. I think, most players feel the former group should be said the worst, however, they are faster than the latter group in some situations, such as time attack on CTT.
+
+## Worst in terms of Turning
+Generally, the heavier body and booster are and the lighter cockpit is, the worse machine is in terms of turning. Machines with A rated body and booster, and E or D rated cockpit are literally unable to turn at all. By some reasons, it is hard to determine the true worst among them. The following shows the parts of the alternatives.
+
+### Big Tyrant
+Big Tyrant is the "heaviest" body part in terms of steering, although it is lighter than Megalo Cruiser in terms of Weight. So, this part is the first alternative for body part of the worst turning group. Big Tyrant also have high grip, so that machines with this is hard to drift.
+
+### Megalo Cruiser
+Megalo Cruiser is the second alternative for body part. It is lighter in terms of steering, but has higher grip than Big Tyrant. That means, machines with Megalo Cruiser are slightly harder to keep drifting. Since machines of this group need to lose grip in order to turn, higher grip makes the machine worse.
+
+### Windy Shark
+Windy Shark has the worst steering ability. I think, this is the worst cockpit in general.
+
+### Aerial Bullet
+Aerial Bullet has the highest Grip 2 stat. So, machines with this cockpit part seem to turn slightly slower than those with Windy shark, during a drift. I cannot determine which is true worse, but definetly this is one of the worst cockpits.
+
+### Thunderbolt V2
+Booster part affect turning ability by its Weight, so that the heaviest booster, namely, Thunderbolt V2 is the worst in terms of this aspect.
+
+## Worst in terms of Speed
+Bluster X is the slowest booster part, in almost all aspects. Again, Windy Shark and Aerial Bullet have almost no reasons to be fast. So I think, machines with these booster and cockpit parts should be in this group. However, since all body parts have strong and weak points, I cannot determine which is the true worst. I list notable ones as follows.
+
+### Speedy Dragon
+Speedy Dragon is lightest and one of the most slippery body part. Due to its Weight, machines with this body part have slowest unboosted top speed. However, it has strongest MTS ability. It is fast in MTS even with Bluster X and Windy Shark or Aerial Bullet. Despite the MTS ability, this part should be listed because of its Weight and difficulty to control.
+
+### Holy Spider
+Holy Spider is the lightest body part which has no good MTS ability. Holy Spider is slightly too slippery to be easy to control too. I think, this has least strong points.
+
+### Space Cancer
+Space Cancer is the lightest body part with high grip. Space Cancer is too grippy to control and not fast because it is not heavy. This body part has almost no strong points, but at least, it is heavier than Holy Spider.
+
+### Silver Sword
+Silver Sword is one of the most slippery body part. Unlike Speedy Dragon, this part has no good MTS ability. Machines with this body part is difficult to control and not fast.
+
+### Big Tyrant
+The worst turning ability makes the machine slow on courses with tight curves. Therefore, this should be listed here. However, due to its Weight, it is fast on such as CTT and ADS.
