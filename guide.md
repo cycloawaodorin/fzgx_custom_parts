@@ -71,13 +71,13 @@ To be written.
 There are no machines which can be said worst in all aspects. However, I think, there are two big groups which can be said worst: bad turning machines and slowest machines. I think, most players feel the former group should be said the worst, however, they are faster than the latter group in some situations, such as time attack on CTT.
 
 ## Worst in terms of Turning
-Generally, the heavier body and booster are and the lighter cockpit is, the worse machine is in terms of turning. Machines with A rated body and booster, and E or D rated cockpit are literally unable to turn at all. By some reasons, it is hard to determine the true worst among them. The following shows the parts of the alternatives.
+Generally, the heavier body and booster are and the lighter cockpit is, the worse machine is in terms of turning. Machines with A rated body and booster, and E or D rated cockpit are literally unable to turn at all. By some reasons, it is hard to determine which is the true worst among them. The following shows the parts of the alternatives.
 
 ### Big Tyrant
 Big Tyrant is the "heaviest" body part in terms of steering, although it is lighter than Megalo Cruiser in terms of Weight. So, this part is the first alternative for body part of the worst turning group. Big Tyrant also have high grip, so that machines with this is hard to drift.
 
 ### Megalo Cruiser
-Megalo Cruiser is the second alternative for body part. It is lighter in terms of steering, but has higher grip than Big Tyrant. That means, machines with Megalo Cruiser are slightly harder to keep drifting. Since machines of this group need to lose grip in order to turn, higher grip makes the machine worse.
+Megalo Cruiser is the second alternative for body part. It is lighter in terms of steering, but has higher grip than Big Tyrant. That means, machines with Megalo Cruiser are slightly harder to keep drifting. Since machines of this group need to lose grip in order to turn, higher grip makes the machine worse. Though, even Big Tyrant with light cockpit is too hard to drift.
 
 ### Windy Shark
 Windy Shark has the worst steering ability. I think, this is the worst cockpit in general.
@@ -89,13 +89,13 @@ Aerial Bullet has the highest Grip 2 stat. So, machines with this cockpit part s
 Booster part affect turning ability by its Weight, so that the heaviest booster, namely, Thunderbolt V2 is the worst in terms of this aspect.
 
 ## Worst in terms of Speed
-Bluster X is the slowest booster part, in almost all aspects. Again, Windy Shark and Aerial Bullet have almost no reasons to be fast. So I think, machines with these booster and cockpit parts should be in this group. However, since all body parts have strong and weak points, I cannot determine which is the true worst. I list notable ones as follows.
+Bluster X is the slowest booster part, in almost all aspects. Again, Windy Shark and Aerial Bullet have almost no reasons to be fast. So I think, machines with these booster and cockpit parts should be in this group. However, since all body parts have strong and weak points, I cannot determine which is the true worst. I listed notable ones as follows.
 
 ### Speedy Dragon
-Speedy Dragon is lightest and one of the most slippery body part. Due to its Weight, machines with this body part have slowest unboosted top speed. However, it has strongest MTS ability. It is fast in MTS even with Bluster X and Windy Shark or Aerial Bullet. Despite the MTS ability, this part should be listed because of its Weight and difficulty to control.
+Speedy Dragon is the lightest and one of the most slippery body part. Due to its Weight, machines with this body part have slowest unboosted top speed. However, it has strongest MTS ability. It is fast in MTS even with Bluster X and Windy Shark or Aerial Bullet. Despite the MTS ability, this part should be listed because of its Weight and difficulty to control.
 
 ### Holy Spider
-Holy Spider is the lightest body part which has no good MTS ability. Holy Spider is slightly too slippery to be easy to control too. I think, this has least strong points.
+Holy Spider is the lightest body part which has no good MTS ability. Holy Spider is slightly too slippery to be easy to control too. I think, this body part has least strong points.
 
 ### Space Cancer
 Space Cancer is the lightest body part with high grip. Space Cancer is too grippy to control and not fast because it is not heavy. This body part has almost no strong points, but at least, it is heavier than Holy Spider.
