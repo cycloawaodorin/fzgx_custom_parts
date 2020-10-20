@@ -68,7 +68,7 @@ Booster parts determine most of speed related properties, such as acceleration, 
 To be written.
 
 # How do I make the "worst" custom machine?
-There are no machines which can be said worst in all aspects. However, I think, there are two big groups which can be said worst: bad turning machines and slowest machines. I think, most players feel the former group should be said the worst, however, they are faster than the latter group in some situations, such as time attack on CTT.
+There are no machines which can be said worst in all aspects. However, I think, there are two big groups which can be said worst: bad turning machines and the slowest machines. I think, most players feel the former group should be said the worst, however, they are faster than the latter group in some situations, such as time attack on CTT.
 
 ## Worst in terms of Turning
 Generally, the heavier body and booster are and the lighter cockpit is, the worse machine is in terms of turning. Machines with A rated body and booster, and E or D rated cockpit are literally unable to turn at all. By some reasons, it is hard to determine which is the true worst among them. The following shows the parts of the alternatives.
@@ -86,7 +86,7 @@ Windy Shark has the worst steering ability. I think, this is the worst cockpit i
 Aerial Bullet has the highest Grip 2 stat. So, machines with this cockpit part seem to turn slightly slower than those with Windy shark, during a drift. I cannot determine which is true worse, but definetly this is one of the worst cockpits.
 
 ### Thunderbolt V2
-Booster part affect turning ability by its Weight, so that the heaviest booster, namely, Thunderbolt V2 is the worst in terms of this aspect.
+Booster part affects turning ability by its Weight, so that the heaviest booster, namely, Thunderbolt V2 is the worst in terms of this aspect.
 
 ## Worst in terms of Speed
 Bluster X is the slowest booster part, in almost all aspects. Again, Windy Shark and Aerial Bullet have almost no reasons to be fast. So I think, machines with these booster and cockpit parts should be in this group. However, since all body parts have strong and weak points, I cannot determine which is the true worst. I listed notable ones as follows.
@@ -105,3 +105,6 @@ Silver Sword is one of the most slippery body part. Unlike Speedy Dragon, this p
 
 ### Big Tyrant
 The worst turning ability makes the machine slow on courses with tight curves. Therefore, this should be listed here. However, due to its Weight, it is fast on such as CTT and ADS.
+
+## Worst Among Specially Named Customs
+Big Ace (Megalo Cruiser + Rave Drifter + Meteor RR) and Nightmare (Grand Base + Aerial Bullet + Thunderbolt V2) are in former group. and Super Nova (Giant Planet + Rave Drifter + Bluster X) is in the latter group.
