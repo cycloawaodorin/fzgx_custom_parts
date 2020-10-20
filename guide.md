@@ -108,4 +108,5 @@ The worst turning ability makes the machine slow on courses with tight curves. T
 
 ## Worst Among Specially Named Customs
 Big Ace (Megalo Cruiser + Rave Drifter + Meteor RR) and Nightmare (Grand Base + Aerial Bullet + Thunderbolt V2) are in the former group. and Super Nova (Giant Planet + Rave Drifter + Bluster X) is in the latter group.
-There are many sub-worst turning: Desert Camel, High Roller, Hippopotamus, Leviathan, Muscle Empress, Poseidon, Sockdolager, Strong Gustav. However, all of them are better than Big Ace and Nightmare.
+
+There are many sub-worst turning: Desert Camel, High Roller, Hippopotamus, Leviathan, Muscle Empress, Poseidon, Sockdolager and Strong Gustav. However, all of them are better than Big Ace and Nightmare.
