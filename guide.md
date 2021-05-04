@@ -68,16 +68,16 @@ Booster parts determine most of speed related properties, such as acceleration, 
 To be written.
 
 # I'm a beginner. Which custom machine is recommended?
-The top tier machines like Quick Star-G4 are not good for players with less skills. However, there are slower than top tier but much easier to control custom machines, which make it easy to beat the Grand Prix on Master Class. I listed the following parts as recommendation. Try to find your favorite combination. In the followings, the section title means "Part Name / Unlock Condition / Recommendation Level." I set the recommendation levels as follows.
+The top tier machines like Quick Star-G4 are not good for players with less skills. However, there are slower than top tier but much easier to control custom machines, which make it easy to beat the Grand Prix on Master Class. I listed the following parts as recommendation. Try to find your favorite combination. In the followings, the section title means "Part Name / Unlocking Condition / Recommendation Level." I set the recommendation levels as follows.
 
 | Level | Description |
-| ---- | ---- |
+| :----: | ---- |
 | \*\*\* | Good for the first choice. |
 | \*\* | Try them if you feel the above to be not for you. |
 | \* | I don't strongly recommend them, but some players might feel them to be better than above. |
 
 ## Body
-Lighter bodies have sharper turn, but have less grip. So, it's difficult to guess which is good for you.
+Lighter bodies have sharper turn, but have less grip. So, it's difficult to guess which is the best for you.
 
 ### Aqua Goose / Available from the start / \*\*\*
 Aqua Goose has good balance of grip, turning ability and weight. It is also easy to control on Pipe / Cylinder. I think this is the best for the first choice.
@@ -107,7 +107,7 @@ Mad Bull is a heavier alternative with good balance.
 If you want heavier than Fire Wolf and Mad Bull bodies, Valiant Jaguar is an alternative. It's heavy but has good balance. It is also good on Pipe / Cylinder.
 
 ### Giant Planet / Complete Chapter 4 on Hard / \*\*
-Giant Planet has similar weight as Valiant Jaguar and much better grip. If you want very high grip, Giant Planet is an alternative. It is also good on Pipe / Cylinder.
+Giant Planet has similar weight as Valiant Jaguar and much higher grip. If you want very high grip, Giant Planet is an alternative. It is also good on Pipe / Cylinder.
 
 ### Space Cancer / Complete Chapter 6 on Hard / \*
 Space Cancer is a lighter variant of Giant Planet. If you want very high grip and relatively good turning, try this.
