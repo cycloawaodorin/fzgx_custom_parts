@@ -67,8 +67,90 @@ Booster parts determine most of speed related properties, such as acceleration, 
 
 To be written.
 
+# I'm a beginner. Which custom machine is recommended?
+The top tier machines like Quick Star-G4 are not good for players with less skills. However, there are slower than top tier but much easier to control custom machines, which make it easy to beat the Grand Prix on Master Class. I listed the following parts as recommendation. Try to find your favorite combination. In the followings, the section title means "Part Name / Unlock Condition / Recommendation Level." I set the recommendation levels as follows.
+
+| Level | Description |
+| ---- | ---- |
+| \*\*\* | Good for the first choice. |
+| \*\* | Try them if you feel the above to be not for you. |
+| \* | I don't strongly recommend them, but some players might feel them to be better than above. |
+
+## Body
+Lighter bodies have sharper turn, but have less grip. So, it's difficult to guess which is good for you.
+
+### Aqua Goose / Available from the start / \*\*\*
+Aqua Goose has good balance of grip, turning ability and weight. It is also easy to control on Pipe / Cylinder. I think this is the best for the first choice.
+
+### Funny Swallow / Available without purchase / \*\*\*
+Funny Swallow is a lighter alternative for the first choice. It can turn most curves without drifting, but has less grip than Aqua Goose. Also, this is easy to control on Pipe / Cylinder, too.
+
+### Brave Eagle / Win the Diamond Cup on Expert Class / \*\*
+If you want lighter body, Brave Eagle is good. But its grip would be too low for beginners.
+
+### Rage Knight / Cheat code / \*\*
+Rage Knight is similar to Funny Swallow. It has less controllability on Pipe / Cylinder, but otherwise, it would be slightly better than Funny Swallow.
+
+### Blood Raven / Cheat code / \*\*
+Blood Raven has intermediate weight between Aqua Goose and Funny Swallow, and has good balance of turning and grip. A small flaw of this is slightly less controllability on Pipe / Cylinder than Aqua Goose and Funny Swallow.
+
+### Sky Horse / Available from the start / \*\*, Rapid Barrel / Win a Grand Prix on any Class / \*\*
+These are also intermediate alternatives. Nothing special to say, but you might like them.
+
+### Fire Wolf / Available from the start / \*\*
+If you want heavier body, Fire Wolf would be good. However, it is not good for Pipe / Cylinder.
+
+### Mad Bull / Cheat code / \*\*
+Mad Bull is a heavier alternative with good balance.
+
+### Valiant Jaguar / Win a Grand Prix on any Class / \*\*
+If you want heavier than Fire Wolf and Mad Bull bodies, Valiant Jaguar is an alternative. It's heavy but has good balance. It is also good on Pipe / Cylinder.
+
+### Giant Planet / Complete Chapter 4 on Hard / \*\*
+Giant Planet has similar weight as Valiant Jaguar and much better grip. If you want very high grip, Giant Planet is an alternative. It is also good on Pipe / Cylinder.
+
+### Space Cancer / Complete Chapter 6 on Hard / \*
+Space Cancer is a lighter variant of Giant Planet. If you want very high grip and relatively good turning, try this.
+
+### Metal Shell / Cheat code / \*
+Metal Shell is an alternative of Fire Wolf and Mad Bull. It has some awkward responsibility, but you might like this.
+
+### Dread Hammer / Complete Chapter 8 on Hard / \*
+Dread Hammer is a body part of Gallant Star-G4, one of the top tier customs. It's too heavy for beginners, but you might feel not so bad. Also, Dread Hammer is hard to control on Pipe / Cylinder.
+
+### Grand Base / Available from the start / \*
+Grand Base is similar to Dread Hammer except two things. It has very weak MTS ability but good controllability on Pipe / Cylinder, in contrast to Dread Hammer. It would also be too heavy for beginners.
+
+### Optical Wing / Complete Chapter 2 on Hard / \*, Splash Whale / Complete Chapter 9 on Hard / \*, Galaxy Falcon / Cheat code / \*
+If you want lighter body than Brave Eagle, these are alternatives. They have too low grip for beginners, but easier to control than Speedy Dragon.
+
+## Cockpit
+Generally, heavier cockpits are good for most circumstances. You can chose lighter ones if you want less responsibility in steering.
+
+### Maximum Star / Cheat code / \*\*\*
+Maximum Star is the best cockpit for most circumstances. The big flaw of this is that it is an event part.
+
+### Combat Cannon / Complete Chapter 7 on Hard / \*\*\*
+Combat Cannon is the closest cockpit to Maximum Star. It has slightly different responsibility and is slightly slower in turning techs, but it is very close to Maximum Star.
+
+### Heat Snake / Complet Chapter 3 on Hard / \*\*
+If you want much less responsibility, this is the best alternative.
+
+### Spark Bird / Complete Chapter 6 on Hard / \*\*
+One of the good lighter alternatives. It has intermediate stats between Combat Cannon and Heat Snake.
+
+### Other A or B rated cockpits / Depends on parts / \*
+You can chose any of A or B rated cockpits if you feel the above to be not for you. And yet, lighter than B rated are not recommended.
+
+## Booster
+### Titan G4 / Win a Grand Prix on any Class / \*\*\*
+I highly recommend Titan G4 for booster. It has highest unboosted top speed and decent acceleration, that makes it good on most circumstances.
+
+### Heavier than Titan G4 boosters / Depends on parts / \*
+They are faster in some situations if the player has high enough skills. But I don't recommend them for beginners.
+
 # How do I make the "worst" custom machine?
-There are no machines which can be said worst in all aspects. However, I think, there are two big groups which can be said worst: bad turning machines and the slowest machines. I think, most players feel the former group should be said the worst, however, they are faster than the latter group in some situations, such as time attack on CTT.
+There are no machines which can be said worst in all aspects. However, I think, there are two big groups which can be said worst: bad turning machines and the slowest machines. I think, most players would feel the former group should be said the worst, however, they are faster than the latter group in some situations, such as time attack on CTT.
 
 ## Worst in terms of Turning
 Generally, the heavier body and booster are and the lighter cockpit is, the worse machine is in terms of turning. Machines with A rated body and booster, and E or D rated cockpit are literally unable to turn at all. By some reasons, it is hard to determine which is the true worst among them. The following shows the parts of the alternatives.
@@ -83,7 +165,7 @@ Megalo Cruiser is the second alternative for body part. It is lighter in terms o
 Windy Shark has the worst steering ability. I think, this is the worst cockpit in general.
 
 ### Aerial Bullet
-Aerial Bullet has the highest Grip 2 stat. So, machines with this cockpit part seem to turn slightly slower than those with Windy shark, during a drift. I cannot determine which is true worse, but definetly this is one of the worst cockpits.
+Aerial Bullet has the highest Grip 2 stat. So, machines with this cockpit part seem to turn slightly slower than those with Windy Shark, during a drift. I cannot determine which is true worse, but definetly this is one of the worst cockpits.
 
 ### Thunderbolt V2
 Booster part affects turning ability by its Weight, so that the heaviest booster, namely, Thunderbolt V2 is the worst in terms of this aspect.
@@ -101,12 +183,12 @@ Holy Spider is the lightest body part which has no good MTS ability. Holy Spider
 Space Cancer is the lightest body part with high grip. Space Cancer is too grippy to control and not fast because it is not heavy. This body part has almost no strong points, but at least, it is heavier than Holy Spider.
 
 ### Silver Sword
-Silver Sword is one of the most slippery body part. Unlike Speedy Dragon, this part has no good MTS ability. Machines with this body part is difficult to control and not fast.
+Silver Sword is one of the most slippery body part. Unlike Speedy Dragon, this part has no good MTS ability. Machines with this body part are difficult to control and not fast.
 
 ### Big Tyrant
 The worst turning ability makes the machine slow on courses with tight curves. Therefore, this should be listed here. However, due to its Weight, it is fast on such as CTT and ADS.
 
 ## Worst Among Specially Named Customs
-Big Ace (Megalo Cruiser + Rave Drifter + Meteor RR) and Nightmare (Grand Base + Aerial Bullet + Thunderbolt V2) are in the former group. and Super Nova (Giant Planet + Rave Drifter + Bluster X) is in the latter group.
+Big Ace (Megalo Cruiser + Rave Drifter + Meteor RR) and Nightmare (Grand Base + Aerial Bullet + Thunderbolt V2) are in the former group and Super Nova (Giant Planet + Rave Drifter + Bluster X) is in the latter group.
 
 There are many sub-worst turning: Desert Camel, High Roller, Hippopotamus, Leviathan, Muscle Empress, Poseidon, Sockdolager and Strong Gustav. However, all of them are better than Big Ace and Nightmare.
