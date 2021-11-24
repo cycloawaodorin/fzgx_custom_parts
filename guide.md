@@ -110,7 +110,7 @@ Giant Planet has similar weight as Valiant Jaguar and much higher grip. If you w
 Space Cancer is a lighter variant of Giant Planet. If you want very high grip and relatively good turning, try this.
 
 ### Fire Wolf / Available from the start / \*, Metal Shell / Cheat code / \*
-Fire Wolf and Metal Shell is an alternative of Mad Bull. Fire Wolf is unstable on Pipe / Cylinder. Metal Shell has some awkward responsibility, but you might like it. To be honest, I like Metal Shell.
+Fire Wolf and Metal Shell are alternatives of Mad Bull. Fire Wolf is unstable on Pipe / Cylinder and Metal Shell has some awkward responsibility, but you might like them. To be honest, I like Metal Shell.
 
 ### Dread Hammer / Complete Chapter 8 on Hard / \*
 Dread Hammer is a body part of Gallant Star-G4, one of the top tier customs. It's too heavy for beginners, but you might feel not so bad. Also, Dread Hammer is hard to control on Pipe / Cylinder.
