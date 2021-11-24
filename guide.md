@@ -57,7 +57,7 @@ C rated cockpits are not too bad if it is combined with B rated or lighter body 
 ## Strafe Turn, Grip 2 and Body
 [Strafe Turn](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit#gid=4) and [Grip 2](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit#gid=7) are also affect turning. However, I'm not very sure about these stats. Since they are correlated with cockpit Weight, it is difficult to notice the effects of them distinguished from other stats. I'm curious to see how the highest Strafe Turn of Combat Cannon and the lowest Grip 2 of Crazy Buffalo will work.
 
-Cockpits also have [Body](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit#gid=10) stat. The total Body stat of the custom machine is the product of body part's Body and cockpit part's Body stats. The value is the multiplier of the damage, so that the smaller, the better.
+Cockpits also have [Body](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit#gid=10) stat. The total Body stat of the custom machine is the product of body part's Body and cockpit part's Body stats. The value is the multiplier of the damage, so that the smaller, the more durable.
 
 ![cockpit_others](./fig/cockpit_w.png)
 
