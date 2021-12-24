@@ -92,7 +92,7 @@ If you want lighter body, Brave Eagle is good. But its grip would be too low for
 Rage Knight is similar to Funny Swallow. It has less controllability on Pipe / Cylinder, but otherwise, it would be slightly better than Funny Swallow.
 
 ### Blood Raven / Cheat code / \*\*
-Blood Raven has intermediate weight between Aqua Goose and Funny Swallow, and has good balance of turning and grip. A small flaw of this is slightly less controllability on Pipe / Cylinder than Aqua Goose and Funny Swallow.
+Blood Raven has intermediate weight between Aqua Goose and Funny Swallow, and has good balance of turning and grip. A small flaw of this is slightly less controllable on Pipe / Cylinder than Aqua Goose and Funny Swallow.
 
 ### Sky Horse / Available from the start / \*\*, Rapid Barrel / Win a Grand Prix on any Class / \*\*
 These are also intermediate alternatives. Nothing special to say, but you might like them.
