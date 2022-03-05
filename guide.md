@@ -68,7 +68,7 @@ Booster parts determine most of speed related properties, such as acceleration, 
 To be written.
 
 # I'm a beginner. Which custom machine is recommended?
-The top tier machines like Quick Star-G4 are not good for players with less skills. However, there are slower than top tier but much easier to control custom machines, which make it easy to beat the Grand Prix on Master Class. I listed the following parts as recommendation. Try to find your favorite combination. In the followings, the section title means "Part Name / Unlocking Condition / Recommendation Level." I set the recommendation levels as follows.
+The top tier machines like Quick Star-G4 are not good for players with less skills. However, there are custom machines slower than top tier but much easier to control, which make it easy to beat the Grand Prix on Master Class. I listed the following parts as recommendation. Try to find your favorite combination. In the followings, the section title means "Part Name / Unlocking Condition / Recommendation Level." I set the recommendation levels as follows.
 
 | Level | Description |
 | :----: | ---- |
