@@ -95,13 +95,13 @@ Rage Knight is similar to Funny Swallow. It has less controllability on Pipe / C
 Blood Raven has intermediate weight between Aqua Goose and Funny Swallow, and has good balance of turning and grip. A small flaw of this is slightly less controllable on Pipe / Cylinder than Aqua Goose and Funny Swallow.
 
 ### Sky Horse / Available from the start / \*\*, Rapid Barrel / Win a Grand Prix on any Class / \*\*
-These are also intermediate alternatives. Nothing special to say, but you might like them.
+These are also intermediate alternatives. Nothing special to say, but you may like them.
 
 ### Mad Bull / Cheat code / \*\*
-Mad Bull is a heavier alternative with good balance.
+Mad Bull is a heavier alternative with good balance. It turns more slowly but has better grip, compared to Aqua Goose.
 
 ### Valiant Jaguar / Win a Grand Prix on any Class / \*\*
-If you want heavier than Fire Wolf and Mad Bull bodies, Valiant Jaguar is an alternative. It's heavy but has good balance. It is also good on Pipe / Cylinder.
+If you want heavier than Mad Bull bodies, Valiant Jaguar is an alternative. It's heavy but has good balance. It is also good on Pipe / Cylinder.
 
 ### Giant Planet / Complete Chapter 4 on Hard / \*\*
 Giant Planet has similar weight as Valiant Jaguar and much higher grip. If you want very high grip, Giant Planet is an alternative. It is also good on Pipe / Cylinder.
@@ -130,7 +130,7 @@ Maximum Star is the best cockpit for most circumstances. The big flaw of this is
 ### Combat Cannon / Complete Chapter 7 on Hard / \*\*\*
 Combat Cannon is the closest cockpit to Maximum Star. It has slightly different responsibility and is slightly slower in turning techs, but it is very close to Maximum Star.
 
-### Heat Snake / Complet Chapter 3 on Hard / \*\*
+### Heat Snake / Complete Chapter 3 on Hard / \*\*
 If you want much less responsibility, this is the best alternative.
 
 ### Spark Bird / Complete Chapter 6 on Hard / \*\*
