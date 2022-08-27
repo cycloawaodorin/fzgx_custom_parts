@@ -4,7 +4,7 @@ This document provides information on custom parts to make custom machines in F-
 ## Resources about Basics
 To learn about Max Speed run on F-ZERO GX, I recommend to read [AKC12's Max Speed Guide](https://docs.google.com/document/d/1yy1bv_G-eI2f7a8whAHOhhULii9DPPtTzrBExWm5sFk/edit?usp=sharing).
 
-F-ZERO GX has many hidden stats of machines, and the [Machines' Internal Stats](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit?usp=sharing) spreadsheet summarizes the stats. You can check out a brief explanation about each stat in corresponding tabs. AKC12's [How Settings Affect Machine Attributes](https://docs.google.com/document/d/1HH_ch12IxEfvJVZqkMIwZWXViqTAlj2MIADKf5iywGg/edit?usp=sharing) is helpful to learn about how settings affect the stats. Since I would not like to repeat explanation about the stats, please refer them if you don't know the internal stats. Also, my [Machines' Measured Data](https://docs.google.com/spreadsheets/d/1zTDH3mCGQ6mU56ecvcxKCFhpnLVHexOsXU3RgALDyIU/edit#gid=1986508902) spreadsheet summarizes some measured speed data, which can be used as a reference.
+F-ZERO GX has many hidden stats of machines, and the [Machines' Internal Stats](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit?usp=sharing) spreadsheet summarizes the stats. You can check out a brief explanation about each stat in corresponding tabs. AKC12's [How Settings Affect Machine Attributes](https://docs.google.com/document/d/1HH_ch12IxEfvJVZqkMIwZWXViqTAlj2MIADKf5iywGg/edit?usp=sharing) is helpful to learn about how settings affect the stats. Since I would not like to repeat explanation about the stats, please refer them if you are not familiar with the internal stats. Also, my [Machines' Measured Data](https://docs.google.com/spreadsheets/d/1zTDH3mCGQ6mU56ecvcxKCFhpnLVHexOsXU3RgALDyIU/edit#gid=1986508902) spreadsheet summarizes some measured speed data, which can be used as a reference.
 
 [Differences Between the Best Custom Parts in F-ZERO GX](https://docs.google.com/document/d/1So9MZ92JoMX4xwp7kgXpuYVsbesTlfXCzQ3aKeAe1H8/edit?usp=sharing) have detailed discussions of top cockpits and top boosters. This document aims to complement it, so that you can see the overview of all the parts.
 
@@ -36,12 +36,12 @@ By the correlation between Grip 1 and steering heaviness, the lighter the body i
 ![body_grip3](./fig/body_g3.png)
 
 ### Strafe
-[Strafe](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit#gid=5) is also one of the most important stats of body parts. MTS ability is strongly correlated to this stat. Mostly, higher than or equal to 35 is good to MTS (the higher, the better). 30 can be decent, but apparently weaker. All the bodies with less than or equal to 25 Strafe value have very weak MTS ability. Also, the high Grip 3 bodies do not have good MTS ability even if Strafe stat is high (Megalo Cruiser). In the following figure, labels of "C rated" and "B rated" exclude directly labeled body parts.
+[Strafe](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit#gid=5) is also one of the most important stats of body parts. MTS ability is strongly correlated to this stat. Mostly, higher than or equal to 35 is good to MTS (the higher, the better). 30 can be decent, but obviously weaker. All the bodies with less than or equal to 25 Strafe value have very weak MTS ability. Also, the high Grip 3 bodies do not have good MTS ability even if Strafe stat is high (Megalo Cruiser). In the following figure, labels of "C rated" and "B rated" exclude directly labeled body parts.
 
 ![body_strafe](./fig/body_s.png)
 
 # Cockpit
-Cockpit parts determine turning ability, grip (other stat than body parts) and body strength (same as body parts). All the principal stats intermediately to strongly correlated to Weight.
+Cockpit parts determine turning ability, grip (other stat than body parts) and body strength (same as body parts). All the principal stats are intermediately to strongly correlated to Weight.
 
 ## Turn Movement
 [Turn Movement](https://docs.google.com/spreadsheets/d/133Xsq-KV3lpfk9SS4_L84WV-JuXHOR8_GlFZRnskkSU/edit#gid=3) is the most important stat of cockpit parts. It determines steering power. The higher the Turn Movement value is, the more sharply the machine turns. For the cockpit parts, the heavier the cockpit is, the higher Turn Movement is. Generally, the higher Turn Movement is, the better the machine performs. Therefore, Maximum Star, the heaviest and highest Turn Movement cockpit part is considered best in most cases. Also, this would be the main reason why Combat Cannon is considered second to the best cockpit.
@@ -95,7 +95,7 @@ Rage Knight is similar to Funny Swallow. It has less controllability on Pipe / C
 Blood Raven has intermediate weight between Aqua Goose and Funny Swallow, and has good balance of turning and grip. A small flaw of this is slightly less controllable on Pipe / Cylinder than Aqua Goose and Funny Swallow.
 
 ### Sky Horse / Available from the start / \*\*, Rapid Barrel / Win a Grand Prix on any Class / \*\*
-These are also intermediate alternatives. Nothing special to say, but you may like them.
+Sky Horse and Rapid Barrel are also intermediate alternatives. Nothing special to say, but you may like them.
 
 ### Mad Bull / Cheat code / \*\*
 Mad Bull is a heavier alternative with good balance. It turns more slowly but has better grip, compared to Aqua Goose.
@@ -131,7 +131,7 @@ Maximum Star is the best cockpit for most circumstances. The big flaw of this is
 Combat Cannon is the closest cockpit to Maximum Star. It has slightly different responsibility and is slightly slower in turning techs, but it is very close to Maximum Star.
 
 ### Heat Snake / Complete Chapter 3 on Hard / \*\*
-If you want much less responsibility, this is the best alternative.
+If you want much less responsibility, this would be the best alternative.
 
 ### Spark Bird / Complete Chapter 6 on Hard / \*\*
 One of the good lighter alternatives. It has intermediate stats between Combat Cannon and Heat Snake.
@@ -147,13 +147,13 @@ I highly recommend Titan G4 for booster. It has highest unboosted top speed and 
 They are faster in some situations if the player has high enough skills. But I don't recommend them for beginners.
 
 # How do I make the "worst" custom machine?
-There are no machines which can be said worst in all aspects. However, I think, there are two big groups which can be said worst: bad turning machines and the slowest machines. I think, most players would feel the former group should be said the worst, however, they are faster than the latter group in some situations, such as time attack on CTT.
+There are no machines which can be said worst in all aspects. However, I think, there are two big groups which can be said worst: bad turning machines and the slowest machines. I think, most players would feel the former group should be said the worst, however, they are faster than the latter group in some situations, such as time attack on CTT. In the following sections, I present specific parts that are used in machines belonging those groups.
 
 ## Worst in terms of Turning
 Generally, the heavier body and booster are and the lighter cockpit is, the worse machine is in terms of turning. Machines with A rated body and booster, and E or D rated cockpit are literally unable to turn at all. By some reasons, it is hard to determine which is the true worst among them. The following shows the parts of the alternatives.
 
 ### Big Tyrant
-Big Tyrant is the "heaviest" body part in terms of steering, although it is lighter than Megalo Cruiser in terms of Weight. So, this part is the first alternative for body part of the worst turning group. Big Tyrant also have high grip, so that machines with this is hard to drift.
+Big Tyrant is the "heaviest" body part in terms of steering, although it is lighter than Megalo Cruiser in terms of Weight. So, this part is the first alternative for body part of the worst turning group. Big Tyrant also have high grip, so that machines with this are hard to drift.
 
 ### Megalo Cruiser
 Megalo Cruiser is the second alternative for body part. It is lighter in terms of steering, but has higher grip than Big Tyrant. That means, machines with Megalo Cruiser are slightly harder to keep drifting. Since machines of this group need to lose grip in order to turn, higher grip makes the machine worse. Though, even Big Tyrant with light cockpit is too hard to drift.
@@ -174,7 +174,7 @@ Bluster X is the slowest booster part, in almost all aspects. Again, Windy Shark
 Speedy Dragon is the lightest and one of the most slippery body part. Due to its Weight, machines with this body part have slowest unboosted top speed. However, it has strongest MTS ability. It is fast in MTS even with Bluster X and Windy Shark or Aerial Bullet. Despite the MTS ability, this part should be listed because of its Weight and difficulty to control.
 
 ### Holy Spider
-Holy Spider is the lightest body part which has no good MTS ability. Holy Spider is slightly too slippery to be easy to control too. I think, this body part has least strong points.
+Holy Spider is the lightest body part which has no good MTS ability. Holy Spider is slightly too slippery to be easy to control as well. I think, this body part has least strong points.
 
 ### Space Cancer
 Space Cancer is the lightest body part with high grip. Space Cancer is too grippy to control and not fast because it is not heavy. This body part has almost no strong points, but at least, it is heavier than Holy Spider.
